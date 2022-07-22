@@ -1,5 +1,6 @@
 package asia.leadsgen.pasp.service;
 
+import lombok.extern.log4j.Log4j2;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -17,6 +18,7 @@ import asia.leadsgen.pasp.model.ResultModel;
 import asia.leadsgen.pasp.model.request.SettingModel;
 import asia.leadsgen.pasp.model.request.ThemeRequest;
 
+@Log4j2
 @Service
 public class ThemeSettingService {
 
