@@ -8,7 +8,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>asia.leadsgen</groupId>
-	<artifactId>pasp-new</artifactId>
+	<artifactId>app-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>app-service</name>
 	<description>Demo project for Spring Boot</description>
